@@ -6,3 +6,5 @@ c.	Distributed version control system
 Centralized version control system: 
 a.	It is not locally available, meaning we always need to be connected to a network to perform any action.
 b.	Since everything is centralized, if central server gets failed, we will lose entire data e.g. SVN tool.
+Distributed version control system
+In Distributed version control system, every contributor has a local copy or clone of the main repository i.e. everyone maintain a repository of their own which contain all the files & metadata present in main repository.
